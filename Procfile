@@ -1,0 +1,1 @@
+web: simple-go-app
